@@ -1,4 +1,11 @@
 # MTG Notebook
+## CS5610 Project 2 MTG Notebook
+
+The MTG Notebook is built with **Node**, **Express**, **MongoDB**, and a lightweight **HTML/JS frontend**.
+MTG Notebook is a web app with the goal of helping MtG players find cards and manage their MtG inventory all in one place. It has full details on each card, a robust search, and easy ways to find cards that are legal in the Commander game format.
+Users are also able to signup with the website in order to track cards they own into a central inventory list.
+The live production link is [here](https://mtg-notebook.vercel.app/).
+It dumps Scryfall MtG card data and inserts it into our database, lets users manage their collections, supports full CRUD operations on cards and inventory, and allows signup and signin to manage personal profiles.
 
 ### Authors
 [Tim Yim](https://github.com/airyimbin/) and [Rudra](https://github.com/Rudra072)
@@ -15,13 +22,7 @@ Created for [CS5610](https://johnguerra.co/classes/webDevelopment_online_fall_20
 ## Site Link
 [https://mtg-notebook.vercel.app/](https://mtg-notebook.vercel.app/)
 
-## CS5610 Project 2 MTG Notebook
 
-The MTG Notebook is built with **Node**, **Express**, **MongoDB**, and a lightweight **HTML/JS frontend**.
-MTG Notebook is a web app with the goal of helping MtG players find cards and manage their MtG inventory all in one place. It has full details on each card, a robust search, and easy ways to find cards that are legal in the Commander game format.
-Users are also able to signup with the website in order to track cards they own into a central inventory list.
-The live production link is [here](https://mtg-notebook.vercel.app/).
-It dumps Scryfall MtG card data and inserts it into our database, lets users manage their collections, supports full CRUD operations on cards and inventory, and allows signup and signin to manage personal profiles.
 
 ## CRUD Operations
 CRUD operations:
@@ -44,8 +45,8 @@ Create inventory list for each user. Read all the cards users own. Click on any 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/airyimbin/mtg-deck-notebook.git
-cd mtg-deck-notebook
+git clone https://github.com/airyimbin/mtg-notebook.git
+cd mtg-notebook
 ```
 
 ### 2. Install Dependencies
