@@ -1,3 +1,4 @@
+// Rudra and Tim
 // public/nav.js
 import { getCurrentUser } from "./auth.js";
 
