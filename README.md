@@ -7,7 +7,7 @@
 Created for [CS5610](https://johnguerra.co/classes/webDevelopment_online_fall_2025/) taught by [John Alexis Guerra Gómez](https://johnguerra.co)
 
 ## Site Link
-[https://mtg-deck-notebook.vercel.app/](https://mtg-deck-notebook.vercel.app/)
+[https://mtg-notebook.vercel.app/](https://mtg-notebook.vercel.app/)
 
 ## CS5610 Project 2 MTG Notebook
 
