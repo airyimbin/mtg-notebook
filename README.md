@@ -2,7 +2,7 @@
 [Tim Yim](https://github.com/airyimbin/) and [Rudra](https://github.com/Rudra072)
 
 ### Note for Grader
-Had to remove commits because of so commits will not show full story.
+Had to remove commits because of secrets being leaked, so commits will not show full story.
 Instead each file will have the name of the person who worked on it at the top.
 
 Explained to professor here [https://webdev-online-neu.slack.com/archives/C09D5UFRT2R/p1760127545626929?thread_ts=1760126253.337449&cid=C09D5UFRT2R](https://webdev-online-neu.slack.com/archives/C09D5UFRT2R/p1760127545626929?thread_ts=1760126253.337449&cid=C09D5UFRT2R)
