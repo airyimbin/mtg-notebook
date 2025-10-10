@@ -62,7 +62,7 @@ Then open http://localhost:3000
 ## Video Introduction
 Youtube
 ## Slides
-
+[Slides](https://docs.google.com/presentation/d/1qJT4OouqPAMWhR_vDQ-RRRB99tmYaScfArgBmmAr6x4/edit?usp=sharing)
 ## Screenshots
 <img width="2559" height="1461" alt="Screenshot 2025-10-10 121745" src="https://github.com/user-attachments/assets/56cc72cc-9390-4dd4-9130-10c82bd27884" />
 <img width="2559" height="1467" alt="Screenshot 2025-10-10 121803" src="https://github.com/user-attachments/assets/139b4472-0501-4bcb-8f08-28e8013fd77e" />
