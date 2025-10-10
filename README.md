@@ -7,6 +7,17 @@ Users are also able to signup with the website in order to track cards they own 
 The live production link is here [https://mtg-deck-notebook.vercel.app/](https://mtg-deck-notebook.vercel.app/)
 It dumps Scryfall MtG card data and inserts it into our database, lets users manage their collections, supports full CRUD operations on cards and inventory, and allows signup and signin to manage personal profiles.
 
+## CRUD Operations
+CRUD operations:
+
+Tim:
+
+Create all the cards into db with data dumped from master card list json. Create new users with full signup and sign in. Read all the cards onto the main page and implement search for specific cards with multiple filter criteria. Delete users if they wish to delete their profile.
+
+Rudra:
+
+Create inventory list for each user. Read all the cards users own. Click on any card in inventory to reach an individual card page with full details of the card. Update by adding cards to inventory. Delete any cards from inventory that they no longer have.
+
 ### Authors
 [Tim Yim](https://github.com/airyimbin/) and [Rudra](https://github.com/Rudra072)
 
