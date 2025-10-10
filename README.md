@@ -1,5 +1,5 @@
 # mtg-deck-notebook
-CS5610 Project 2 MTG Deck Notebook
+## CS5610 Project 2 MTG Notebook
 
 The MTG Notebook is built with **Node**, **Express**, **MongoDB**, and a lightweight **HTML/JS frontend**.
 MTG Notebookk is a web app with the goal of helping MtG players find cards and manage their MtG inventory all in one place. It has full details on each card, a robust search, and easy ways to find cards that are legal in the Commander game format.
@@ -56,16 +56,18 @@ npm start
 Then open http://localhost:3000
 
 ---
+
 ## Design Document
 [Document](https://docs.google.com/document/d/1xwS8EaBsdJiyRUbLaA9yJb9xZ5Puq1CjsSjt_Ekbazg/edit?usp=sharing)
 ## Video Introduction
 Youtube
+## Slides
+
 ## Screenshots
-<img width="2559" height="1462" alt="Screenshot 2025-10-10 121843" src="https://github.com/user-attachments/assets/21d21d37-8def-497f-afa2-46e0d7f0425e" />
-<img width="2559" height="1459" alt="Screenshot 2025-10-10 121828" src="https://github.com/user-attachments/assets/49f27602-cf06-49ce-85dd-5b2e611a9b3a" />
-<img width="2559" height="1467" alt="Screenshot 2025-10-10 121803" src="https://github.com/user-attachments/assets/139b4472-0501-4bcb-8f08-28e8013fd77e" />
 <img width="2559" height="1461" alt="Screenshot 2025-10-10 121745" src="https://github.com/user-attachments/assets/56cc72cc-9390-4dd4-9130-10c82bd27884" />
-<img width="2559" height="1464" alt="Screenshot 2025-10-10 121723" src="https://github.com/user-attachments/assets/95ca7cb5-118d-4d91-95d9-87d4e739d711" />
+<img width="2559" height="1467" alt="Screenshot 2025-10-10 121803" src="https://github.com/user-attachments/assets/139b4472-0501-4bcb-8f08-28e8013fd77e" />
+<img width="2559" height="1459" alt="Screenshot 2025-10-10 121828" src="https://github.com/user-attachments/assets/49f27602-cf06-49ce-85dd-5b2e611a9b3a" />
+<img width="2559" height="1462" alt="Screenshot 2025-10-10 121843" src="https://github.com/user-attachments/assets/21d21d37-8def-497f-afa2-46e0d7f0425e" />
 
 
 
