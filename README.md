@@ -18,7 +18,7 @@ Created for [CS5610](https://johnguerra.co/classes/webDevelopment_online_fall_20
 The MTG Notebook is built with **Node**, **Express**, **MongoDB**, and a lightweight **HTML/JS frontend**.
 MTG Notebook is a web app with the goal of helping MtG players find cards and manage their MtG inventory all in one place. It has full details on each card, a robust search, and easy ways to find cards that are legal in the Commander game format.
 Users are also able to signup with the website in order to track cards they own into a central inventory list.
-The live production link is [here](https://mtg-deck-notebook.vercel.app/).
+The live production link is [here](https://mtg-notebook.vercel.app/).
 It dumps Scryfall MtG card data and inserts it into our database, lets users manage their collections, supports full CRUD operations on cards and inventory, and allows signup and signin to manage personal profiles.
 
 ## CRUD Operations
