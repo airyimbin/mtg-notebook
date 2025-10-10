@@ -1,3 +1,5 @@
+# MTG Notebook
+
 ### Authors
 [Tim Yim](https://github.com/airyimbin/) and [Rudra](https://github.com/Rudra072)
 
