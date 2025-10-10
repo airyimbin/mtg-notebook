@@ -8,7 +8,7 @@ The live production link is [here](https://mtg-notebook.vercel.app/).
 It dumps Scryfall MtG card data and inserts it into our database, lets users manage their collections, supports full CRUD operations on cards and inventory, and allows signup and signin to manage personal profiles.
 
 ### Authors
-[Tim Yim](https://github.com/airyimbin/) and [Rudra](https://github.com/Rudra072)
+[Tim Yim](https://github.com/airyimbin/) and [Rudra Vaghani](https://github.com/Rudra072)
 
 ### Note for Grader
 Had to remove commits because of secrets being leaked, so commits will not show full story.
