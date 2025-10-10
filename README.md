@@ -1,4 +1,11 @@
 # mtg-deck-notebook
+
+### Authors
+[Tim Yim](https://github.com/airyimbin/) and [Rudra](https://github.com/Rudra072)
+
+### Class Link
+Created for [CS5610](https://johnguerra.co/classes/webDevelopment_online_fall_2025/) taught by [John Alexis Guerra Gómez](https://johnguerra.co)
+
 ## CS5610 Project 2 MTG Notebook
 
 The MTG Notebook is built with **Node**, **Express**, **MongoDB**, and a lightweight **HTML/JS frontend**.
@@ -18,11 +25,8 @@ Rudra:
 
 Create inventory list for each user. Read all the cards users own. Click on any card in inventory to reach an individual card page with full details of the card. Update by adding cards to inventory. Delete any cards from inventory that they no longer have.
 
-### Authors
-[Tim Yim](https://github.com/airyimbin/) and [Rudra](https://github.com/Rudra072)
-
-### Class Link
-Created for [CS5610](https://johnguerra.co/classes/webDevelopment_online_fall_2025/) taught by [John Alexis Guerra Gómez](https://johnguerra.co)
+## MongoDB Collections
+<img width="2043" height="256" alt="Screenshot 2025-10-10 120624" src="https://github.com/user-attachments/assets/33142fcd-7b2a-4cf8-a4b4-4244529ef232" />
 
 ---
 
