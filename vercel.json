@@ -3,6 +3,6 @@
   "buildCommand": "npm run build:frontend",
   "outputDirectory": "public",
   "rewrites": [
-    { "source": "/api/:path*", "destination": "https://mtg-deck-notebook-production.up.railway.app/:path*" }
+    { "source": "/api/:path*", "destination": "https://mtg-notebook-production.up.railway.app/:path*" }
   ]
 }
