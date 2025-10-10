@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>How to Use MTG Deck Notebook</title>
+	<script src="/js/config.js"></script>
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+</head>
+
+<body class="bg-light">
+	<nav class="navbar navbar-expand-lg bg-white border-bottom sticky-top">
+		<div id="navMount" class="w-100"></div>
+	</nav>
+
+	<main class="container py-4">
+		<header class="mb-4">
+			<h1 class="h3 mb-2">Getting Started</h1>
+			<p class="text-muted mb-0">Follow these quick steps to search for cards, manage your inventory, and keep your
+				MTG collection organized.</p>
+		</header>
+
+		<div class="row g-3">
+			<div class="col-12">
+				<div class="card shadow-sm border-0 rounded-4 h-100">
+					<div class="card-body">
+						<div class="d-flex align-items-center gap-3 mb-3">
+							<span class="badge bg-primary rounded-pill px-3 py-2">1</span>
+							<h2 class="h5 mb-0">Sign Up or Sign In</h2>
+						</div>
+						<ol class="mb-0 ps-3">
+							<li>Go to <a href="/signup.html">Sign Up</a> and create an account with your email, username, and
+								password.</li>
+							<li>Already registered? Head to <a href="/signin.html">Sign In</a> and log in with your credentials.</li>
+							<li>Once logged in, the navigation bar will show your profile link and a sign-out button.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-12">
+				<div class="card shadow-sm border-0 rounded-4 h-100">
+					<div class="card-body">
+						<div class="d-flex align-items-center gap-3 mb-3">
+							<span class="badge bg-primary rounded-pill px-3 py-2">2</span>
+							<h2 class="h5 mb-0">Search for Cards</h2>
+						</div>
+						<ol class="mb-0 ps-3">
+							<li>Navigate to the <a href="/">Card Search</a> page.</li>
+							<li>Use the filters (name, type, color identity, mana value, and commander legal toggle) to narrow your
+								results.</li>
+                            <li>For example, to find all blue instant cards with mana value 3 or less: enter <code>U</code> in <strong>Color Identity</strong>, <code>3</code> in <strong>Mana Value <=</strong>, and type <code>Instant</code> in <strong>Type</strong>.</li>
+                            <li>Optionally, you can use the <strong>Commander Legal</strong> toggle to filter for cards that are legal in the Commander format.</li>
+                            <li>You can also search text using the <strong>Search Text</strong> field to find cards by name or other rules text.</li>
+							<li>Click <strong>Search</strong> to fetch matching cards, then browse with the Prev/Next buttons if there
+								are multiple pages.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-12">
+				<div class="card shadow-sm border-0 rounded-4 h-100">
+					<div class="card-body">
+						<div class="d-flex align-items-center gap-3 mb-3">
+							<span class="badge bg-primary rounded-pill px-3 py-2">3</span>
+							<h2 class="h5 mb-0">Add Cards to Your Inventory</h2>
+						</div>
+						<ol class="mb-0 ps-3">
+							<li>From the search results, pick a card you own or want to track.</li>
+							<li>Click <strong>Add to Inventory</strong>. If you aren't signed in, you'll be prompted to do so first.</li>
+							<li>A success toast confirms the card was saved. Repeat for each card you want to store.</li>
+                            <li>You can add multiple copies of the same card by clicking <strong>Add to Inventory</strong> again; the quantity will increase accordingly.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-12">
+				<div class="card shadow-sm border-0 rounded-4 h-100">
+					<div class="card-body">
+						<div class="d-flex align-items-center gap-3 mb-3">
+							<span class="badge bg-primary rounded-pill px-3 py-2">4</span>
+							<h2 class="h5 mb-0">View and Manage Your Inventory</h2>
+						</div>
+						<ol class="mb-0 ps-3">
+							<li>Open the <a href="/users.html">My Stuff</a> page from the navigation bar.</li>
+							<li>Review the list of saved cards, quantities, and recent updates.</li>
+							<li>Use your browser's refresh or repeat the search/add flow to keep the list current.</li>
+                            <li>To remove a card, click <strong>Remove</strong>. This decreases the quantity by one or removes it entirely if only one copy existed.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+
+			<div class="col-12">
+				<div class="card shadow-sm border-0 rounded-4 h-100">
+					<div class="card-body">
+						<div class="d-flex align-items-center gap-3 mb-3">
+							<span class="badge bg-primary rounded-pill px-3 py-2">5</span>
+							<h2 class="h5 mb-0">Delete Your Account</h2>
+						</div>
+						<ol class="mb-0 ps-3">
+							<li>Visit your <a href="/profile.html">Profile</a> page while signed in.</li>
+							<li>Click <strong>Delete Account</strong> and confirm the prompt. This permanently removes your profile and
+								inventory data.</li>
+							<li>After deletion, you'll be redirected to the homepage. You can create a new account anytime.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<section class="mt-4">
+			<div class="alert alert-info border-0 rounded-4" role="alert">
+				Need help or spot an issue? Open a ticket on the <a href="https://github.com/airyimbin/mtg-deck-notebook/issues">GitHub repository</a>.
+			</div>
+		</section>
+	</main>
+
+	<script type="module" src="/js/nav.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
