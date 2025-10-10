@@ -84,7 +84,7 @@ Youtube
 
 <img width="2559" height="1461" alt="Screenshot 2025-10-10 121745" src="https://github.com/user-attachments/assets/ca20434f-cb81-4472-8c76-3b8d10efb574" />
 <img width="2559" height="1467" alt="Screenshot 2025-10-10 121803" src="https://github.com/user-attachments/assets/9f6cc5f6-0413-4d6f-836a-2b4701f71336" />
-<img width="2559" height="1459" alt="Screenshot 2025-10-10 121828" src="https://github.com/user-attachments/assets/1aa33e9d-7d11-4c9a-8651-b4622f9276ac" />
+<img width="2553" height="1456" alt="Screenshot 2025-10-10 183417" src="https://github.com/user-attachments/assets/cd31a78c-3649-4a6f-b8f0-77e324ea9308" />
 <img width="2559" height="1462" alt="Screenshot 2025-10-10 121843" src="https://github.com/user-attachments/assets/5d4cce42-648e-4081-a89f-5f2a5926d2ec" />
 
 
