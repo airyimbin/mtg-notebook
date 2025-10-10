@@ -1,3 +1,4 @@
+// Tim
 // public/app.js
 import { getCurrentUser } from "./auth.js";
 import { showToast } from "./toast.js";

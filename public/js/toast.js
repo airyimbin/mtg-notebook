@@ -1,3 +1,4 @@
+// Tim
 // public/toast.js
 export function showToast(message, type = "info", delay = 3000) {
   const area = document.getElementById("toastArea");
