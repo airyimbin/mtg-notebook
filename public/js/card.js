@@ -57,7 +57,8 @@ async function loadCard() {
     const scryfallLink = c.scryfall_uri
       ? `<a href="${c.scryfall_uri}" target="_blank" class="text-decoration-none">View on Scryfall ↗️</a>`
       : "";
-
+    
+    //Implementing lazy loading for card images to improve initial load performance could be better.
     container.innerHTML = `
       <div class="row g-4 align-items-start">
         <div class="col-md-4 text-center">
