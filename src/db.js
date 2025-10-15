@@ -1,3 +1,4 @@
+//For improvement of search performance, it is recommended to have composite indexes on commonly used fields such as name, type_line, oracle_text, color_identity.
 // Tim
 // MongoDB connection helper for Railway/Atlas
 import { MongoClient } from "mongodb";
