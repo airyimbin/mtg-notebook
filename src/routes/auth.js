@@ -71,9 +71,11 @@ router.post("/login", async (req, res) => {
       return res.status(400).json({ error: "Missing credentials" });
     }
 
-    const user = await Users.findOne({
-      $or: [{ email: emailOrUsername }, { username: emailOrUsername }],
-    });
+   const query = emailOrUsername.includes("@")
+      ? { email: emailOrUsername.toLowerCase() }
+      : { username: emailOrUsername };
+    const user = await Users.findOne(query);
+
     if (!user) return res.status(401).json({ error: "Invalid credentials" });
 
     const ok = await bcrypt.compare(password, user.password_hash);
