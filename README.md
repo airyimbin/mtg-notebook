@@ -86,7 +86,7 @@ Then open http://localhost:3000
 ## Design Document
 [Document](https://docs.google.com/document/d/1xwS8EaBsdJiyRUbLaA9yJb9xZ5Puq1CjsSjt_Ekbazg/edit?usp=sharing)
 ## Video Introduction
-[Youtube](https://youtu.be/NN5Li61Nc04)
+[Youtube](https://youtu.be/Du9gZQRMvB0)
 ## Slides
 [Slides](https://docs.google.com/presentation/d/1qJT4OouqPAMWhR_vDQ-RRRB99tmYaScfArgBmmAr6x4/edit?usp=sharing)
 ## Screenshots
